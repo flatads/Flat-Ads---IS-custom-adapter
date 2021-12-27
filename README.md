@@ -18,3 +18,8 @@ allprojects {
     }
 }
 ```
+
+混淆规则
+```
+-keep class com.flatads.sdk.response.* {*;}
+```
