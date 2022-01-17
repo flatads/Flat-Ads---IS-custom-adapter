@@ -7,7 +7,7 @@ Flat Ads - IS custom adapter
 ```
 dependencies {
     implementation 'com.flatads.sdk:flatads:1.4.3'
-    implementation 'com.ironsource.adapters:flatadapter:1.0.3'
+    implementation 'com.ironsource.adapters:flatadapter:1.1.0'
 }
 
 //
